@@ -6,6 +6,6 @@ Project developed in a CSS class.
 
 #
 ## Tools: 
-    Css & Sass
+    CSS & SASS
     BEM (Block Element Modifier)
-    Responsive design
+    Responsive Design
